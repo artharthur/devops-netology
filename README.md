@@ -1,3 +1,14 @@
+# devops-netology
+
+## Содержание
+- **Системы контроля версий** — см. раздел ниже на этой странице.
+- **Основы Git (отчёты):**
+  - [HW1 — GitLab: второй remote + push](docs/HW1.md)
+  - [HW2 — Теги](docs/HW2.md)
+  - [HW3 — Ветки](docs/HW3.md)
+
+---
+
 # devops-netology first line
 
 ## Ignore rules
