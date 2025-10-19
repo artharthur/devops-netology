@@ -10,3 +10,4 @@
   - crash-логи `crash*.log`
   - override-файлы `override.tf*`
   - файлы с переменными `*.tfvars*` (секреты)
+fix: add new line
