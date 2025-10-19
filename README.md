@@ -6,6 +6,7 @@
   - [HW1 — GitLab: второй remote + push](docs/HW1.md)
   - [HW2 — Теги](docs/HW2.md)
   - [HW3 — Ветки](docs/HW3.md)
+  - Edited via VS Code (HW4).
 
 ---
 
